@@ -3,7 +3,7 @@
 
 ---
 
-<h1 align="center">Xmorinori 0_0</h1>
+<h1 align="center">Xmorinori</h1>
 <p align="center">
   "KAWAII PEOPLE"<br>
   <code>Member of <a href="https://retas.org" target="_blank">retas.org</a> & <a href="https://cdef.id" target="_blank">cdef.id</a></code>
@@ -28,7 +28,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="mailto:xiang1zhenn@gmail.com">
+      <a href="mailto:xiao.byte@proton.me">
         <img src="https://img.icons8.com/ios-glyphs/30/808080/gmail.png" alt="Email"/><br>Email
       </a>
     </td>
