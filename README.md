@@ -127,8 +127,6 @@
 
 my library which used by people world wide
 
-- [Hentoid BETA](https://github.com/XENXIAOKAWAII/Hentoid_V1BETA_OFC)
-  _(Haram)_
 - [Mini Config](https://crates.io/crates/mini-config)
 - [AES 256 GCM](https://crates.io/crates/aes-256-gcm) _(popular)_
 - [Cerberus_V1](https://github.com/XENXIAOKAWAII/Cerberus_V1)
