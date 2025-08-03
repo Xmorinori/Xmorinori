@@ -138,6 +138,8 @@ _(popular)_
 
 ### GitHub Stats
 
+<div align="center"><img src="https://count.getloli.com/@ztrdiamond?name=ztrdiamond&theme=booru-lewd&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=0" align="center"></div>
+
 <p align="center">
   <!-- Stats dan Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api?username=xmorinori&show_icons=true&theme=tokyonight&count_private=true" height="165" />
