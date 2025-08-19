@@ -61,7 +61,7 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-<br>
+
 <img src="https://pacman.abozanona.me?username=Xmorinori" />
 
 
