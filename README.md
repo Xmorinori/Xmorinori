@@ -1,7 +1,9 @@
 <img src="https://raw.githubusercontent.com/zonblade/zonblade/refs/heads/main/img/frieren-1.gif" align="center" width="100%" title="OPSWAT" alt="OPSWAT"/></br>
 <img style="height:100%; width: 100%;" src="https://raw.githubusercontent.com/zonblade/zonblade/refs/heads/main/img/header.gif" align="center"/>
 
-<div align="center" style="margin: 1000px 0;">
+<br><br>
+
+<div align="center">
   <a href="https://skillicons.dev">
     <img 
       src="https://skillicons.dev/icons?i=js,ts,react,astro,express,wordpress,nodejs,bun,git,vscode,go,php,laravel,docker,nginx,aws,gcp,azure,cloudflare,replit,netlify,vercel,nix,linux,windows,mysql,mongo,supabase,firebase,sqlite&perline=10" 
@@ -9,6 +11,8 @@
       style="max-width: 100%; height: auto;"/>
   </a>
 </div>
+
+<br><br>
 
   </a>
 </div>
