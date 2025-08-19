@@ -39,6 +39,8 @@
 <br> 
 
 <!-- Badge 3x3 -->
+<div align="center">
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/darr.eel_/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xmorinori)
 [![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:xiao.bytedance@proton.me)  
@@ -48,6 +50,8 @@
 [![CDEF_ID](https://img.shields.io/badge/CDEF_ID-111111?style=for-the-badge&logo=cloudflare&logoColor=orange)](https://cdef.id/)
 [![RETAS](https://img.shields.io/badge/RETAS-222222?style=for-the-badge&logo=mozilla&logoColor=red)](https://retas.org/)
 [![Personal](https://img.shields.io/badge/Personal-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://xmorinorix.netlify.app/)
+
+</div>
 
 <picture>
   <source
