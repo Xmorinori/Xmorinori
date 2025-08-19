@@ -51,7 +51,9 @@
 [![RETAS](https://img.shields.io/badge/RETAS-222222?style=for-the-badge&logo=mozilla&logoColor=red)](https://retas.org/)
 [![Personal](https://img.shields.io/badge/Personal-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://xmorinorix.netlify.app/)
 
-<img src="https://pacman.abozanona.me?username=Xmorinori" />
+<iframe src="https://abozanona.github.io/pacman-contribution-graph/embeded/canvas.html?username=Xmorinori&platform=github" 
+    width="800" height="600" frameborder="0"></iframe>
+
 ---
 <p align="center">
   <sub>© 2025 No Copyright • Made with ❤︎ by <a href="https://github.com/Xmorinori">@xmorinori</a></sub>
