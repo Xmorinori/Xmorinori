@@ -39,8 +39,6 @@
        style="max-width: 100%; height: auto; display: block;">
 
 <br>
-<!-- GIF -->
-<img src="https://lh3.googleusercontent.com/d/1bP7elgOjOohuzv5Nx28URUJEuF5ajln-" alt="GIF" width="250"/>
 
 <!-- Badge 3x3 -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/darr.eel_/)
