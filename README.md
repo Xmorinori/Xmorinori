@@ -53,6 +53,8 @@
 
 </div>
 
+<div align="center">
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -65,8 +67,12 @@
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    style="max-width: 100%; height: auto;"
   />
 </picture>
+
+</div>
+
 
 <img src="https://pacman.abozanona.me?username=Xmorinori" />
 
