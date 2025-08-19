@@ -38,7 +38,7 @@
   <img src="https://raw.githubusercontent.com/Xmorinori/Xmorinori/909843b29860b57352c601cce2b6e147bc424ba9/img/github-matrix.svg"
        style="max-width: 100%; height: auto; display: block;">
 
-<br><br>     
+<br> 
 
 <!-- Badge 3x3 -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/darr.eel_/)
@@ -50,9 +50,8 @@
 [![CDEF_ID](https://img.shields.io/badge/CDEF_ID-111111?style=for-the-badge&logo=cloudflare&logoColor=orange)](https://cdef.id/)
 [![RETAS](https://img.shields.io/badge/RETAS-222222?style=for-the-badge&logo=mozilla&logoColor=red)](https://retas.org/)
 [![Personal](https://img.shields.io/badge/Personal-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://xmorinorix.netlify.app/)
-
 ---
 <p align="center">
-  <sub>© 2025 No Copyright • Made with ❤️ by <a href="https://github.com/Xmorinori">@Xmorinori</a></sub>
+  <sub>© 2025 No Copyright • Made with ❤︎ by <a href="https://github.com/Xmorinori">@xmorinori</a></sub>
 </p>
 
