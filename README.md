@@ -4,7 +4,7 @@
 <div align="center" style="margin: 30px 0;">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=js,ts,react,astro,express,wordpress,nodejs,bun,git,vscode,go,php,laravel,docker,nginx,aws,gcp,azure,cloudflare,replit,netlify,vercel,nix,linux,windows,mysql,mongo,supabase,firebase,sqlite&perline=5" 
+      src="https://skillicons.dev/icons?i=js,ts,react,astro,express,wordpress,nodejs,bun,git,vscode,go,php,laravel,docker,nginx,aws,gcp,azure,cloudflare,replit,netlify,vercel,nix,linux,windows,mysql,mongo,supabase,firebase,sqlite&perline=10" 
       alt="My Skills" 
       style="max-width: 100%; height: auto;"/>
   </a>
