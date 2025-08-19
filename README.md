@@ -33,9 +33,11 @@
 </div>
 <br>
 
-<div align="center" style="margin: 24px 0;"> <img src="https://raw.githubusercontent.com/Xmorinori/Xmorinori/e7d85ea556a69dfe74fe15fd9dbf8153e9db8cff/img/github-matrix.svg" style="max-width: 100%; height: auto; display: block;">
+<div align="center">
+    <img width="625em" src="./img/github-matrix.svg" />
 </div>
 
+<br>
 <br> 
 
 <!-- Badge 3x3 -->
