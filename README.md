@@ -4,7 +4,7 @@
 <div align="center" style="margin: 30px 0;">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=js,ts,react,astro,express,wordpress,nodejs,bun,git,vscode,go,php,laravel,docker,nginx,aws,gcp,azure,cloudflare,replit,netlify,vercel,nix,linux,windows,mysql,mongo,supabase,firebase,sqlite&perline=15" 
+      src="https://skillicons.dev/icons?i=js,ts,react,astro,express,wordpress,nodejs,bun,git,vscode,go,php,laravel,docker,nginx,aws,gcp,azure,cloudflare,replit,netlify,vercel,nix,linux,windows,mysql,mongo,supabase,firebase,sqlite&perline=10" 
       alt="My Skills" 
       style="max-width: 100%; height: auto;"/>
   </a>
@@ -13,20 +13,21 @@
   </a>
 </div>
 
-  <div align="center">
+ <div align="center">
   <a href="https://www.credly.com/earner/earned/badge/969f0576-3ab8-4128-9af8-f8922cba2039" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" width="100" alt="Cisco CC Badge"/>
+    <img src="https://images.credly.com/size/680x680/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="Cisco CC Badge" style="width:22%; min-width:70px; max-width:120px; margin:5px;">
   </a>
   <a href="https://www.credly.com/earner/earned/badge/68a4141f-5e17-48d4-9b0e-319b9bb381a3" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" width="100" alt="OPSWAT Badge"/>
+    <img src="https://images.credly.com/size/680x680/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" alt="OPSWAT Badge" style="width:22%; min-width:70px; max-width:120px; margin:5px;">
   </a>
   <a href="https://www.credly.com/earner/earned/badge/7531fda8-7942-468f-a947-5bdd7a4b11c6" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/3ac1a6a1-ea8c-44ea-9eaf-03458d10b19f/image.png" width="100" alt="IBM Badge"/>
+    <img src="https://images.credly.com/size/680x680/images/3ac1a6a1-ea8c-44ea-9eaf-03458d10b19f/image.png" alt="IBM Badge" style="width:22%; min-width:70px; max-width:120px; margin:5px;">
   </a>
   <a href="https://www.credly.com/earner/earned/badge/a8925b8c-966f-4655-8c5a-9e50099f1e09" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/53629652-f0f2-4bc8-abfd-444c366d3cf6/image.png" width="100" alt="IBM Badge"/>
+    <img src="https://images.credly.com/size/680x680/images/53629652-f0f2-4bc8-abfd-444c366d3cf6/image.png" alt="IBM Badge" style="width:22%; min-width:70px; max-width:120px; margin:5px;">
   </a>
 </div>
+
 
 <div align="center" style="margin: 24px 0;">
   <img src="https://raw.githubusercontent.com/Xmorinori/Xmorinori/909843b29860b57352c601cce2b6e147bc424ba9/img/github-matrix.svg"
