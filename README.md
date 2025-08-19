@@ -38,7 +38,7 @@
   <img src="https://raw.githubusercontent.com/Xmorinori/Xmorinori/909843b29860b57352c601cce2b6e147bc424ba9/img/github-matrix.svg"
        style="max-width: 100%; height: auto; display: block;">
 
-<br>
+<br><br>     
 
 <!-- Badge 3x3 -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/darr.eel_/)
@@ -53,6 +53,6 @@
 
 ---
 <p align="center">
-  <sub>© 2025 No Copyright • Made with ❤️ by <a href="https://github.com/Xmorinori">Xmorinori</a></sub>
+  <sub>© 2025 No Copyright • Made with ❤️ by <a href="https://github.com/Xmorinori">@Xmorinori</a></sub>
 </p>
 
