@@ -31,6 +31,7 @@
     <img src="https://images.credly.com/size/680x680/images/53629652-f0f2-4bc8-abfd-444c366d3cf6/image.png" alt="IBM Badge" style="width:22%; min-width:70px; max-width:120px; margin:5px;">
   </a>
 </div>
+<br>
 
 
 <div align="center" style="margin: 24px 0;">
