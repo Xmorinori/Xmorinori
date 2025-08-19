@@ -34,7 +34,7 @@
 <br>
 
 <div align="center">
-    <img width="625em" src="https://raw.githubusercontent.com/Xmorinori/Xmorinori/909843b29860b57352c601cce2b6e147bc424ba9/img/github-matrix.svg" />
+    <img width="625em" src="./img/github-matrix.svg" />
 </div>
 
 <br>
