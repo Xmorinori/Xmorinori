@@ -51,8 +51,6 @@
 [![RETAS](https://img.shields.io/badge/RETAS-222222?style=for-the-badge&logo=mozilla&logoColor=red)](https://retas.org/)
 [![Personal](https://img.shields.io/badge/Personal-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://xmorinorix.netlify.app/)
 
-<img src="https://pacman.abozanona.me?username=Xmorinori" />
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -67,6 +65,8 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+<img src="https://pacman.abozanona.me?username=Xmorinori" />
 
 
 ---
