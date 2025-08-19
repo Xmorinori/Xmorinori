@@ -53,6 +53,8 @@
 
 <img src="https://pacman.abozanona.me?username=Xmorinori" />
 
+![Snake animation](https://github.com/Xmorinori/Xmorinori/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 <p align="center">
