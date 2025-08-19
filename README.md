@@ -33,10 +33,7 @@
 </div>
 <br>
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Xmorinori/Xmorinori/e7d85ea556a69dfe74fe15fd9dbf8153e9db8cff/img/github-matrix.svg" 
-       width="100%" alt="GitHub Matrix"/>
+<div align="center" style="margin: 24px 0;"> <img src="https://raw.githubusercontent.com/Xmorinori/Xmorinori/e7d85ea556a69dfe74fe15fd9dbf8153e9db8cff/img/github-matrix.svg" style="max-width: 100%; height: auto; display: block;">
 </div>
 
 <br> 
