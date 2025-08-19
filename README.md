@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/zonblade/zonblade/refs/heads/main/img/frieren-1.gif" align="center" width="100%" title="OPSWAT" alt="OPSWAT"/></br>
 <img style="height:100%; width: 100%;" src="https://raw.githubusercontent.com/zonblade/zonblade/refs/heads/main/img/header.gif" align="center"/>
 
-<br><br>
+<br>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -12,7 +12,7 @@
   </a>
 </div>
 
-<br><br>
+<br>
 
   </a>
 </div>
