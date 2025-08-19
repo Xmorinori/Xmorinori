@@ -39,45 +39,13 @@
        style="max-width: 100%; height: auto; display: block;">
 
 <br>
-
-<div align="center">
+div align="center">
 
   <!-- Wrapper -->
   <div style="display: inline-block; text-align: left;">
 
     <!-- GIF di kiri -->
-    <div style="display: inline-block; vertical-align: top; margin-right: 20px;">
-      <img src="https://lh3.googleusercontent.com/d/1bP7elgOjOohuzv5Nx28URUJEuF5ajln-" alt="GIF" width="250"/>
-    </div>
-
-    <!-- Badges di kanan -->
-    <div style="display: inline-block; vertical-align: top;">
-
-      <!-- Baris 1 -->
-      <p>
-        <a href="https://www.instagram.com/darr.eel_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-        <a href="https://github.com/Xmorinori"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-        <a href="mailto:xiao.bytedance@proton.me"><img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
-      </p>
-
-      <!-- Baris 2 -->
-      <p>
-        <a href="https://trakteer.id/xmorinori/tip"><img src="https://img.shields.io/badge/Donate-F16061?style=for-the-badge&logo=buymeacoffee&logoColor=white"/></a>
-        <a href="https://wwwww.jodi.org/"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/></a>
-        <a href="https://discord.gg/h5VaZnf5nc"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-      </p>
-
-      <!-- Baris 3 -->
-      <p>
-        <a href="https://cdef.id/"><img src="https://img.shields.io/badge/CDEF_ID-111111?style=for-the-badge&logo=cloudflare&logoColor=orange"/></a>
-        <a href="https://retas.org/"><img src="https://img.shields.io/badge/RETAS-222222?style=for-the-badge&logo=mozilla&logoColor=red"/></a>
-        <a href="https://xmorinorix.netlify.app/"><img src="https://img.shields.io/badge/Personal-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-      </p>
-
-    </div>
-
-  </div>
-</div>
+    <div style="display: inline-block; vertical-align: top; margin-right
 
 ---
 <p align="center">
