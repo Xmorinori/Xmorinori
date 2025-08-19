@@ -50,7 +50,6 @@
 [![CDEF_ID](https://img.shields.io/badge/CDEF_ID-111111?style=for-the-badge&logo=cloudflare&logoColor=orange)](https://cdef.id/)
 [![RETAS](https://img.shields.io/badge/RETAS-222222?style=for-the-badge&logo=mozilla&logoColor=red)](https://retas.org/)
 [![Personal](https://img.shields.io/badge/Personal-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://xmorinorix.netlify.app/)
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
