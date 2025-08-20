@@ -92,7 +92,7 @@ root@Xmorinori: ~/xiaobyte (main)$ neofetch
 
 <div align="center">
   <img 
-    src="https://ibb.co.com/7JvjHD5g" 
+    src="https://lh3.googleusercontent.com/d/1TpBpMSYQBAJ70Ro-jx7rhOB3Bmfk4QDL" 
     alt="BANNER"
     style="max-width: 100%; height: auto;" />
 </div>
