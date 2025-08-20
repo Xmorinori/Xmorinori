@@ -90,6 +90,12 @@ root@Xmorinori: ~/xiaobyte (main)$ neofetch
 
 <img src="https://pacman.abozanona.me?username=Xmorinori" />
 
+<div align="center">
+  <img 
+    src="https://lh3.googleusercontent.com/d/1RMFB4le4rClKd7TQs08ZxAw8tIrKtnI7" 
+    alt="GIF"
+    style="max-width: 100%; height: auto;" />
+</div>
 
 ---
 <p align="center">
