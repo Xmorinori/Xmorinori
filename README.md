@@ -11,12 +11,10 @@
 
 <br>
 
-<div align="center" style="max-width: 100%; overflow-x: auto;">
 
 ```sh
-root@Xmorinori: ~/xiaobyte (main)$ neofetch
+root@xmorinori: ~/xiaobyte (main)$ neofetch
 ```
-</div>
 
 <div align="center">
   <a href="https://skillicons.dev">
