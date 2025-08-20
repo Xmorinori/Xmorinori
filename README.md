@@ -15,7 +15,8 @@
 
 ```sh
 root@Xmorinori: ~/xiaobyte (main)$ neofetch
-</div> ```
+```
+</div>
 
 <div align="center">
   <a href="https://skillicons.dev">
