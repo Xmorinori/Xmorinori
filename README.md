@@ -11,9 +11,16 @@
 
 <br>
 
-```sh
+<div align="center">
+
+<pre>
+<code>
 root@Xmorinori: ~/xiaobyte (main)$ neofetch
-```
+</code>
+</pre>
+
+</div>
+
 
 <div align="center">
   <a href="https://skillicons.dev">
