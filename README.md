@@ -3,6 +3,10 @@
 
 <br>
 
+```sh
+root@Xmorinori: ~/xiaobyte (main)$ neofetch
+```
+
 <div align="center">
   <a href="https://skillicons.dev">
     <img 
