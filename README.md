@@ -64,7 +64,7 @@ root@xmorinori: ~/xiaobyte (main)$ neofetch
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/h5VaZnf5nc)  
 [![CDEF_ID](https://img.shields.io/badge/CDEF_ID-111111?style=for-the-badge&logo=cloudflare&logoColor=orange)](https://cdef.id/)
 [![RETAS](https://img.shields.io/badge/RETAS-222222?style=for-the-badge&logo=mozilla&logoColor=red)](https://retas.org/)
-[![Personal](https://img.shields.io/badge/Personal-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://xmorinorix.netlify.app/)
+[![Personal](https://img.shields.io/badge/Personal-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://xmorinori.online/)
 
 </div>
 
