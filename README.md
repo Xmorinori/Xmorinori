@@ -2,6 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=Xmorinori&style=for-the-badge" alt="Profile Views" />
 </p>
 
+<center>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF">
+</center>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -17,7 +20,6 @@ Bash                  4 hrs 36 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-
 <center>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF">
 </center>
