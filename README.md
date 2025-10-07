@@ -1,5 +1,5 @@
 <p style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://komarev.com/ghpvc/?username=Xmorinori&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=xmorinori&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <center>
