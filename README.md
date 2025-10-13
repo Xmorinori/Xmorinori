@@ -24,4 +24,3 @@ Bash                  4 hrs 36 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF">
 </center>
 
-<script src="https://gist.github.com/xmorinori/74da24864a4ca700b66ea37c319143b9.js"></script>
